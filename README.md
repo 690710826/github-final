@@ -1,2 +1,5 @@
-# github-final
-Final lab exam
+# My Profile
+## About Me
+- Nickname: ( Fame )
+- Major: ( วิทยาการคอมพิวเตอร์ )
+- Year: 1
